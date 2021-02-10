@@ -25,11 +25,11 @@ Each site has specific metadata including but not limited to how the site is set
 This R package is an effort to simplify data wrangling steps and finally merge them as a single dataframe.
 
 # Installation
-`phenocamapi` can be directly installed from the [GitHub repo](https://github.com/bnasr/phenocamapi):
+`phenocamapi` can be directly installed from the [GitHub repo](https://github.com/phenocam/phenocamapi):
 ```{r}
 # installing the package from the GitHub repo
 if(!require(devtools)) install.packages('devtools')
-devtools::install_github('bnasr/phenocamapi')
+devtools::install_github('phenocam/phenocamapi')
 
 # loading the package
 library(phenocamapi)
