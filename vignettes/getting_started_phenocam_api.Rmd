@@ -22,10 +22,10 @@ dataset and perform data wrangling steps on PhenoCam sites' data and metaadata.
 
 
 This tutorial will show you the basic commands for accessing PhenoCam data
-through the PhenoCam API. The *phenocampapi* R package is developed and maintained by 
-<a href="https://bnasr.github.io/" target="_blank">Bijan Seyednarollah</a>. 
-The most recent release is available on GitHub (<a href="https://github.com/bnasr/phenocamapi" target="_blank">PhenocamAPI</a>). 
-<a href="https://github.com/bnasr/phenocamapi/tree/master/vignettes" target ="_blank">Additional vignettes</a> 
+through the PhenoCam API. The *phenocampapi* R package was developed by 
+<a href="https://phenocam.github.io/" target="_blank">Bijan Seyednarollah</a>. 
+The most recent release is available on GitHub (<a href="https://github.com/phenocam/phenocamapi" target="_blank">PhenocamAPI</a>). 
+<a href="https://github.com/phenocam/phenocamapi/tree/master/vignettes" target ="_blank">Additional vignettes</a> 
 can be found on how to merge external time-series (e.g. Flux data) with the 
 PhenoCam time-series. 
 
@@ -316,6 +316,8 @@ The goal of this section was to show how to download a limited number of midday 
 
 
 
-[^*]: The R package is developed and maintained by <a href="https://bnasr.github.io/">Bijan Seyednarollah</a>. Most recent release is available from: https://github.com/bnasr/xROI.
+[^*]: This R package was developed by <a
+href="https://bnasr.github.io/">Bijan Seyednarollah</a>. Most recent
+release is available from: https://github.com/phenocam/phenocamapi.
 
 
